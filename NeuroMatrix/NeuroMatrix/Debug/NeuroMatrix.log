@@ -1,0 +1,9 @@
+﻿  NeuroMatrix.cpp
+C:\Users\Nix\source\repos\NeuroMatrix\NeuroMatrix\NeuroMatrix.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nix\source\repos\NeuroMatrix\NeuroMatrix\NeuroMatrix.cpp(26,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  NeuronLayer.cpp
+  NeuronNet.cpp
+C:\Users\Nix\source\repos\NeuroMatrix\NeuroMatrix\NeuronNet.cpp(11,6): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nix\source\repos\NeuroMatrix\NeuroMatrix\NeuronNet.cpp(129,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  NeuroMatrix.vcxproj -> C:\Users\Nix\source\repos\NeuroMatrix\Debug\NeuroMatrix.exe
